@@ -60,12 +60,12 @@ En general, se encontró que ambos métodos generan árboles muy similares para 
 
 > _**Partitioned**_
 
-![Arbol correspondiente a máxima verosimilitud (partitioned)](/Users/snchezmelo/Documents/partitioned.jpg)
+![Arbol correspondiente a máxima verosimilitud (partitioned)](https://github.com/snchezmelo/Phylogenomics/blob/master/Imagenes_taller/partitioned.jpg)
 
 
 > _**Unpartitioned**_
 
-![Arbol correspondiente a máxima verosimilitud (unpartitioned)](/Users/snchezmelo/Documents/unpartitioned.jpg)
+![Arbol correspondiente a máxima verosimilitud (unpartitioned)](https://github.com/snchezmelo/Phylogenomics/blob/master/Imagenes_taller/unpartitioned.jpg)
 
 * **Coalescencia**:
 
