@@ -1,10 +1,9 @@
-# Phylogenomics
-En este repositorio encontrará el archivo del taller de filogenómica realizado en la clase de bioinformática.
-
 <div class=text-justify>
 
 # **Taller introductorio a Filogenómica** :raised_hands: :page_facing_up:
 ##### Presentado por: Catalina Sánchez y David Cardona :sunglasses:
+
+En este repositorio encontrará el archivo del taller de filogenómica realizado en la clase de bioinformática.
 
 ##### *Métodos*
 
