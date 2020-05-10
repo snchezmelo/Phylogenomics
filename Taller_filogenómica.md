@@ -71,7 +71,7 @@ En general, se encontró que ambos métodos generan árboles muy similares para 
 
 En lo que respecta al árbol generado por coalescencia, este difiere de manera importantes de los árboles obtenidos por métodos de máxima verosimilitud. En lo que respecta a los valores de soporte, estos son significativamente más bajos y  tienden a afectar predominantemente los nodos de arranque, los cuales muestran los menores valores (Bootstrap < 0.6). A pesar de que topología varía poco con respecto a los otros arboles, la mayoría de cambios se reflejan en los clados terminales –donde además se reportan valores más bajos de Bootstrap–. En general, la topología también es muy diferenciada ya que a pesar de tener dos clados hermanos principales, las ramificaciones de estos no son similares a los de máxima verosimilitud.
 
-![Arbol correspondiente a coalescencia]( /Users/snchezmelo/Documents/Coalescencia.jpg)
+![Arbol correspondiente a coalescencia](https://github.com/snchezmelo/Phylogenomics/blob/master/Imagenes_taller/Coalescencia.jpg)
 
 
 </div>
